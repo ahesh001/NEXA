@@ -10,8 +10,7 @@ body:
   value: "## Multiversal Resonance tracker - Anamoly Report"
 - type: markdown
   attributes:
-  value: |
-  "Please answer the following questions as best as you can. Your data helps us track potential synchronization across realities."
+  value: "Please answer the following questions as best as you can. Your data helps us track potential synchronization across realities."
 
 - type: dropdown
 id: anomaly_type
