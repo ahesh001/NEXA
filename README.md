@@ -47,6 +47,8 @@
     <a href="https://github.com/ahesh001/NEXA/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/ahesh001/NEXA/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    .
+    <a href="https://github.com/ahesh001/NEXA/blob/main/.github/ISSUE_TEMPLATE/multiversal-from.yml">Fill out the multiversal-form to help us collect data</a>
   </p>
 </div>
 
