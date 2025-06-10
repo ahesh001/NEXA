@@ -37,7 +37,7 @@
 <h3 align="center">NEXA</h3>
 
   <p align="center">
-    project_description
+    Project NEXA, is based on a theory solely thought of by me. Hypothesis: "If two (or more) parallel universes experience a synchronized global event - like a nuclear catastrophe or mass extinction - it could cause a resonance point that tears or thins the veil between them, creating a rift that enables interaction or crossing over." My theroy essentially overlaps multiple fields: quantum physics, metaphysics, and speculative cosmology. In simple terms what I'm describing is interdimensional synchronization, the idea that a catastrophe, when mirrored across universes, doesn't just destroy - it connects!
     <br />
     <a href="https://github.com/ahesh001/NEXA"><strong>Explore the docs »</strong></a>
     <br />
