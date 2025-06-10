@@ -88,3 +88,6 @@ We also welcome:
 Thank you for helping us explore the edges of known reality. Your contribution—whether code, creativity, or curiosity—brings us closer to mapping the multiverse.
 
 Riftwatchers unite! 🌐✨
+
+<!-- MARKDOWN LINKS -->
+[CODE of CONDUCT]: https://github.com/ahesh001/NEXA/blob/main/Code%20of%20Conduct.md
