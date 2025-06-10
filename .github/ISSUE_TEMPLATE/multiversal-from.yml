@@ -8,7 +8,7 @@ body:
 - type: markdown
   attributes: 
   value: "## Multiversal Resonance tracker - Anamoly Report"
-- type: mardown
+- type: markdown
   attributes:
   value: |
   Please answer the following questions as best as you can. Your data helps us track potential synchronization across realities.
