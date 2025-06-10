@@ -58,7 +58,7 @@ Please include as much relevant detail as possible, including:
 
 ## 💬 Community Conduct
 
-All contributors are expected to follow our [Code of Conduct](./CODE_OF_CONDUCT.md). This includes:
+All contributors are expected to follow our [Code of Conduct](https://github.com/ahesh001/NEXA/blob/main/Code%20of%20Conduct.md). This includes:
 - Respectful collaboration
 - Openness to diverse worldviews
 - Scientific skepticism balanced with creative speculation
