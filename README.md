@@ -86,6 +86,7 @@ See the [open issues](https://github.com/ahesh001/NEXA/issues) for a full list o
     <li><a href="#contact">Contact</a></li>
     <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#Get-Involved">Get Involved</a></li>
+    <li><a href="#Sponsorships">Sponsorships</a></li>
   </ol>
 </details>
 
