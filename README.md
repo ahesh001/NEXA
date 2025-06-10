@@ -248,9 +248,17 @@ This project is speculative and metaphysical in nature. It blends real scientifi
 Interested in contributing your code, dreams, or anomaly reports?  
 Open an issue, fork the repo, or submit a PR.
 
-Stay weird 🌀  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Sponsorships
+
+Interested in the NEXA project and want to sponsor us? Use the QR code down below to send payments or just click the button that will take you directly to the web browser. 
+
+[<kbd> <br> Sponsor Us! <br> </kbd>][paypal-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Stay weird 🌀
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -267,3 +275,4 @@ Stay weird 🌀
 [license-url]: https://github.com/ahesh001/NEXA/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
+[paypal-url]: https://www.paypal.com/paypalme/akeemheshimu
