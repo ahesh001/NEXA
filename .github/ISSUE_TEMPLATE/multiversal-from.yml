@@ -11,7 +11,7 @@ body:
 - type: markdown
   attributes:
   value: |
-  Please answer the following questions as best as you can. Your data helps us track potential synchronization across realities.
+  "Please answer the following questions as best as you can. Your data helps us track potential synchronization across realities."
 
 - type: dropdown
 id: anomaly_type
