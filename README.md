@@ -216,8 +216,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+<a href="https://github.com/ahesh001/NEXA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ahesh001/NEXA" alt="contrib.rocks image" />
 </a>
 
 
@@ -232,9 +232,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/ahesh001/NEXA](https://github.com/github_usern/repo_name)
+Project Link: [https://github.com/ahesh001/NEXA](https://github.com/ahesh001/NEXA)
+</br>
+</br>
+Website: [https://ahesh001.github.io/index.html](https://ahesh001.github.io/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,6 +259,7 @@ Interested in the NEXA project and want to sponsor us? Use the QR code down belo
 [<kbd> <br> Sponsor Us! <br> </kbd>][paypal-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 Stay weird 🌀
 
