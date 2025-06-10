@@ -108,6 +108,8 @@ The Multiversal Resonance Tracker (MRT) is a speculative, research-grade platfor
 
 This system integrates data from real-world scientific, social, and astronomical sources while also including user-submitted dream logs and Mandela Effect reports to track anomalies that could indicate interdimensional bleedthrough.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- KEY FEATURES -->
 ## Key Features
 
@@ -254,14 +256,14 @@ Stay weird 🌀
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/ahesh001/NEXA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ahesh001/NEXA.svg?style=for-the-badge
+[forks-url]: https://github.com/ahesh001/NEXA/network/members
+[stars-shield]: https://img.shields.io/github/stars/ahesh001/NEXA.svg?style=for-the-badge
+[stars-url]: https://github.com/ahesh001/NEXA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ahesh001/NEXA.svg?style=for-the-badge
+[issues-url]: https://github.com/ahesh001/NEXA/issues
+[license-shield]: https://img.shields.io/github/license/ahesh001/NEXA.svg?style=for-the-badge
+[license-url]: https://github.com/ahesh001/NEXA/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
