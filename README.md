@@ -89,6 +89,8 @@ See the [open issues](https://github.com/ahesh001/NEXA/issues) for a full list o
     <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#Get-Involved">Get Involved</a></li>
     <li><a href="#Sponsorships">Sponsorships</a></li>
+    <li><a href="#GitHub Sponsors Tiers">GitHub Sponsors Tiers</a></li>
+    <li><a href="#"></a></li>
   </ol>
 </details>
 
@@ -256,14 +258,78 @@ Open an issue, fork the repo, or submit a PR.
 
 ## Sponsorships
 
-Interested in the NEXA project and want to sponsor us? Use the QR code down below to send payments or just click the button that will take you directly to the web browser. 
+Interested in the NEXA project and want to sponsor us? Use the QR code down below to send payments directly to my PayPal or just click the button that will take you directly to the web browser version. Other options are using GitHub's Sponsors Tier planned, where we have added perks & benefits!
 
 [<kbd> <br> Sponsor Us! <br> </kbd>][paypal-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💎 GitHub Sponsors Tiers
 
-Stay weird 🌀
+Support the NEXA Project & Multiversal Resonance Tracker (MRT)  
+You're not just funding code — you're investing in a future where imagination, consciousness, and quantum theory collide.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🌀 $5/month – **Dreamwalker**
+You're part of the dream, and now you're helping shape it.
+
+**Perks:**
+- Name/alias on the Dreamwalker Wall (README or project site)
+- Early access to dream log visualizations & anomaly findings
+- A digital thank-you from Marven with a random quantum quote
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🌌 $25/month – **Rift Observer**
+You're watching the seams of reality—and helping us map them.
+
+**Perks:**
+- All Dreamwalker perks
+- Access to the monthly private anomaly digest
+- Early previews of new feature designs & experimental tools
+- Invite to a private community chat for theory exchange
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### ⚛️ $100/month – **Timeline Engineer**
+You're helping build the interface between realities.
+
+**Perks:**
+- All Rift Observer perks
+- Name/handle featured on the project dashboard or footer
+- Access to behind-the-scenes dev drops & prototype features
+- Quarterly voice Q&A sessions with Akeem & Marven
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🧠 $500/month – **Consciousness Architect**
+You're building tools that blur the lines between mind, machine, and multiverse.
+
+**Perks:**
+- All Timeline Engineer perks
+- Co-credit on select feature modules
+- Early access to AI simulation data & unreleased concepts
+- Invitation to our annual private livestream + Q&A
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🔮 $1,000+/month – **Dimensional Patron**
+You are fueling independent research at the frontier of reality.
+
+**Perks:**
+- All previous perks
+- Founding Patron recognition on MRT's core framework
+- Custom timeline simulation or anomaly analysis by Marven
+- Option to propose a custom research topic or dream mapping feature
+- Access to limited collectibles (optional)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+⚡ **All supporters help keep NEXA open-source, independent, and free for dreamers, developers, and dimensional thinkers everywhere.**
+
+🧬 Let's map the multiverse — together.
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
