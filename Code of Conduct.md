@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We, as contributors and maintainers of the Multiversal Resonance Tracker (MRT) project, pledge to foster an open, respectful, and inclusive environment for everyone.
+We, as contributors and maintainers of the NEXA project, pledge to foster an open, respectful, and inclusive environment for everyone.
 
 We are committed to making participation in this project a harassment-free experience for all—regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
