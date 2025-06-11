@@ -90,7 +90,6 @@ See the [open issues](https://github.com/ahesh001/NEXA/issues) for a full list o
     <li><a href="#Get-Involved">Get Involved</a></li>
     <li><a href="#Sponsorships">Sponsorships</a></li>
     <li><a href="#GitHub Sponsors Tiers">GitHub Sponsors Tiers</a></li>
-    <li><a href="#"></a></li>
   </ol>
 </details>
 
