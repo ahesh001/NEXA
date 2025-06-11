@@ -48,7 +48,7 @@ This Code of Conduct applies within all community spaces—including GitHub Issu
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the maintainers at:
 
-**[your-email@example.com]**
+**[zheshimu@gmail.com]**
 
 All reports will be reviewed and investigated, with respect for the privacy and safety of the reporter.
 
